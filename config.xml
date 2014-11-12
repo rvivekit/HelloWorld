@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.sj.CamInvPicture"
         version   = "2.1.0">
-  <name>SJ Picture</name>
+  <name>Hello World</name>
   <description>
-    Application to take Cigarette Inventory picture
+    Gateway to PhoneGap
   </description>
   <author href="http://smokinjoes.com" email="vramalingam@smokinjoe.com">
     Vivekanandan Ramalingam
