@@ -3,6 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.sj.CamInvPicture"
         version   = "2.1.0">
+  <gap:platform name="android" />
   <name>Hello World</name>
   <description>
     Gateway to PhoneGap
