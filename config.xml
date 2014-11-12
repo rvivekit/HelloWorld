@@ -21,5 +21,7 @@
   <preference name="webviewbounce"    value="false" />
   <preference name="StatusBarOverlaysWebView" value="true" />
   <preference name="StatusBarBackgroundColor" value="#2c3e50" />
+  <preference name="android-minSdkVersion" value="10" />
+  <preference name="android-maxSdkVersion" value="12" />
 
 </widget>
