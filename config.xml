@@ -2,7 +2,15 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.sj.CamInvPicture" version="2.1.0">
   <name>Hello World App</name>
   <description>
-   Hello world App is ion
+   Hello world App is entry to portal
   </description>
+  <author href="http://aaruthra.com" email="vivek@aaruthra.com">
+    Vivekanandan Ramalingam
+  </author>
+  <content src="Index.html" />
+  <access origin="*" />
 
+  <preference name="phonegap-version" value="3.6.3"/>
+  <preference name="orientation"      value="portrait" />
+  <preference name="fullscreen"       value="true" />
 </widget>
